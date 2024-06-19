@@ -1,0 +1,14 @@
+Mean: 896535009.56 
+Standard Deviation: 840186108.70 
+Variance: 705912697252334848.00 ^2
+Median: 443400664.00 
+Mode: ModeResult(mode=132830384.0, count=2)
+Range: 4400456448.00 
+25th, 50th, 75th, 90th, 95th Percentiles: [1.57140736e+08 4.43400664e+08 1.57857958e+09 2.08738155e+09
+ 2.38949518e+09]
+Interquartile Range (IQR): 1421438848.00 
+Skewness: 0.70
+Kurtosis: -0.61
+Minimum: 120659160.00 
+Maximum: 4521115608.00 
+95% Confidence Interval: (871197633.7447002, 921872385.3689361)

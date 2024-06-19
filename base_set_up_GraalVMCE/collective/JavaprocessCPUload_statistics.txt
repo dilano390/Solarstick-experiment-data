@@ -1,0 +1,13 @@
+Mean: 0.02 
+Standard Deviation: 0.03 
+Variance: 0.00 ^2
+Median: 0.01 
+Mode: ModeResult(mode=0.0068792995622263915, count=17)
+Range: 0.17 
+25th, 50th, 75th, 90th, 95th Percentiles: [0.00646642 0.00750469 0.01167214 0.05284117 0.07563304]
+Interquartile Range (IQR): 0.01 
+Skewness: 3.25
+Kurtosis: 11.28
+Minimum: 0.00 
+Maximum: 0.17 
+95% Confidence Interval: (0.01668994828725569, 0.01901033928662432)
