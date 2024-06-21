@@ -1,0 +1,188 @@
+[19:27:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:27:23] [ServerMain/INFO]: Loaded 7 recipes
+[19:27:23] [ServerMain/INFO]: Loaded 1271 advancements
+[19:27:24] [Server thread/INFO]: Starting minecraft server version 1.20
+[19:27:24] [Server thread/INFO]: Loading properties
+[19:27:24] [Server thread/INFO]: Default game type: CREATIVE
+[19:27:24] [Server thread/INFO]: Generating keypair
+[19:27:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:27:24] [Server thread/INFO]: Using epoll channel type
+[19:27:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:27:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:27:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:27:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:27:24] [Server thread/INFO]: Preparing level "world"
+[19:27:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:27:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:27:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:27:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:27:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:27:39] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:27:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:27:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:27:41] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[19:27:42] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[19:27:42] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[19:27:43] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[19:27:43] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[19:27:44] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[19:27:44] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[19:27:45] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[19:27:45] [Worker-Main-7/INFO]: Preparing spawn area: 9%
+[19:27:46] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[19:27:46] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[19:27:47] [Worker-Main-7/INFO]: Preparing spawn area: 15%
+[19:27:47] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[19:27:48] [Worker-Main-6/INFO]: Preparing spawn area: 20%
+[19:27:48] [Worker-Main-4/INFO]: Preparing spawn area: 22%
+[19:27:49] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[19:27:49] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[19:27:50] [Worker-Main-7/INFO]: Preparing spawn area: 30%
+[19:27:50] [Worker-Main-4/INFO]: Preparing spawn area: 32%
+[19:27:51] [Worker-Main-3/INFO]: Preparing spawn area: 33%
+[19:27:51] [Worker-Main-6/INFO]: Preparing spawn area: 36%
+[19:27:52] [Worker-Main-1/INFO]: Preparing spawn area: 39%
+[19:27:52] [Worker-Main-4/INFO]: Preparing spawn area: 42%
+[19:27:53] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[19:27:53] [Worker-Main-6/INFO]: Preparing spawn area: 46%
+[19:27:54] [Worker-Main-7/INFO]: Preparing spawn area: 48%
+[19:27:54] [Worker-Main-4/INFO]: Preparing spawn area: 50%
+[19:27:55] [Worker-Main-7/INFO]: Preparing spawn area: 54%
+[19:27:55] [Worker-Main-7/INFO]: Preparing spawn area: 56%
+[19:27:56] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[19:27:56] [Worker-Main-5/INFO]: Preparing spawn area: 60%
+[19:27:57] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[19:27:57] [Worker-Main-5/INFO]: Preparing spawn area: 67%
+[19:27:58] [Worker-Main-3/INFO]: Preparing spawn area: 70%
+[19:27:58] [Worker-Main-3/INFO]: Preparing spawn area: 72%
+[19:27:59] [Worker-Main-7/INFO]: Preparing spawn area: 75%
+[19:27:59] [Worker-Main-3/INFO]: Preparing spawn area: 77%
+[19:28:00] [Worker-Main-2/INFO]: Preparing spawn area: 81%
+[19:28:00] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[19:28:01] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[19:28:01] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[19:28:02] [Worker-Main-1/INFO]: Preparing spawn area: 92%
+[19:28:02] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[19:28:03] [Worker-Main-4/INFO]: Preparing spawn area: 99%
+[19:28:03] [Server thread/INFO]: Time elapsed: 36527 ms
+[19:28:03] [Server thread/INFO]: Done (38.511s)! For help, type "help"
+[19:28:03] [Server thread/INFO]: JMX monitoring enabled
+[19:28:40] [Server thread/INFO]: Bot1node019[/10.149.0.19:42828] logged in with entity id 317 at (203.5, 86.0, 505.5)
+[19:28:40] [Server thread/INFO]: Bot1node019 joined the game
+[19:28:40] [Server thread/INFO]: Bot1node026[/10.149.0.26:60654] logged in with entity id 318 at (212.5, 85.0, 512.5)
+[19:28:40] [Server thread/INFO]: Bot1node026 joined the game
+[19:28:45] [Server thread/INFO]: Bot2node019[/10.149.0.19:42832] logged in with entity id 337 at (208.5, 88.0, 514.5)
+[19:28:45] [Server thread/INFO]: Bot2node019 joined the game
+[19:28:45] [Server thread/INFO]: Bot2node026[/10.149.0.26:60658] logged in with entity id 338 at (202.5, 87.0, 506.5)
+[19:28:45] [Server thread/INFO]: Bot2node026 joined the game
+[19:28:50] [Server thread/INFO]: Bot3node019[/10.149.0.19:42836] logged in with entity id 360 at (204.5, 89.0, 511.5)
+[19:28:50] [Server thread/INFO]: Bot3node019 joined the game
+[19:28:50] [Server thread/INFO]: Bot3node026[/10.149.0.26:60662] logged in with entity id 361 at (213.5, 86.0, 520.5)
+[19:28:50] [Server thread/INFO]: Bot3node026 joined the game
+[19:28:55] [Server thread/INFO]: Bot4node019[/10.149.0.19:42840] logged in with entity id 362 at (214.5, 83.0, 512.5)
+[19:28:55] [Server thread/INFO]: Bot4node019 joined the game
+[19:28:55] [Server thread/INFO]: Bot4node026[/10.149.0.26:60666] logged in with entity id 363 at (199.5, 104.0, 524.5)
+[19:28:55] [Server thread/INFO]: Bot4node026 joined the game
+[19:29:00] [Server thread/INFO]: Bot5node026[/10.149.0.26:60670] logged in with entity id 367 at (196.5, 89.0, 515.5)
+[19:29:00] [Server thread/INFO]: Bot5node026 joined the game
+[19:29:00] [Server thread/INFO]: Bot5node019[/10.149.0.19:42844] logged in with entity id 368 at (210.5, 88.0, 517.5)
+[19:29:00] [Server thread/INFO]: Bot5node019 joined the game
+[19:29:05] [Server thread/INFO]: Bot6node019[/10.149.0.19:42848] logged in with entity id 369 at (212.5, 87.0, 515.5)
+[19:29:05] [Server thread/INFO]: Bot6node019 joined the game
+[19:29:05] [Server thread/INFO]: Bot6node026[/10.149.0.26:60674] logged in with entity id 370 at (195.5, 89.0, 506.5)
+[19:29:05] [Server thread/INFO]: Bot6node026 joined the game
+[19:29:10] [Server thread/INFO]: Bot7node026[/10.149.0.26:60678] logged in with entity id 371 at (214.5, 85.0, 514.5)
+[19:29:10] [Server thread/INFO]: Bot7node026 joined the game
+[19:29:10] [Server thread/INFO]: Bot7node019[/10.149.0.19:42852] logged in with entity id 372 at (203.5, 87.0, 507.5)
+[19:29:10] [Server thread/INFO]: Bot7node019 joined the game
+[19:29:15] [Server thread/INFO]: Bot8node019[/10.149.0.19:42856] logged in with entity id 374 at (199.5, 89.0, 518.5)
+[19:29:15] [Server thread/INFO]: Bot8node019 joined the game
+[19:29:15] [Server thread/INFO]: Bot8node026[/10.149.0.26:60682] logged in with entity id 375 at (197.5, 89.0, 520.5)
+[19:29:15] [Server thread/INFO]: Bot8node026 joined the game
+[19:29:20] [Server thread/INFO]: Bot9node026[/10.149.0.26:60686] logged in with entity id 376 at (197.5, 89.0, 513.5)
+[19:29:20] [Server thread/INFO]: Bot9node026 joined the game
+[19:29:20] [Server thread/INFO]: Bot9node019[/10.149.0.19:42860] logged in with entity id 377 at (207.5, 89.0, 519.5)
+[19:29:20] [Server thread/INFO]: Bot9node019 joined the game
+[19:29:25] [Server thread/INFO]: Bot10node019[/10.149.0.19:42864] logged in with entity id 379 at (197.5, 89.0, 519.5)
+[19:29:25] [Server thread/INFO]: Bot10node019 joined the game
+[19:29:25] [Server thread/INFO]: Bot10node026[/10.149.0.26:60690] logged in with entity id 380 at (210.5, 88.0, 518.5)
+[19:29:25] [Server thread/INFO]: Bot10node026 joined the game
+[19:29:30] [Server thread/INFO]: Bot11node026[/10.149.0.26:60694] logged in with entity id 382 at (205.5, 89.0, 518.5)
+[19:29:30] [Server thread/INFO]: Bot11node026 joined the game
+[19:29:30] [Server thread/INFO]: Bot11node019[/10.149.0.19:42868] logged in with entity id 383 at (198.5, 89.0, 516.5)
+[19:29:30] [Server thread/INFO]: Bot11node019 joined the game
+[19:29:35] [Server thread/INFO]: Bot12node019[/10.149.0.19:42872] logged in with entity id 384 at (208.5, 83.0, 505.5)
+[19:29:35] [Server thread/INFO]: Bot12node019 joined the game
+[19:29:35] [Server thread/INFO]: Bot12node026[/10.149.0.26:60698] logged in with entity id 385 at (215.5, 84.0, 514.5)
+[19:29:35] [Server thread/INFO]: Bot12node026 joined the game
+[19:33:38] [Server thread/INFO]: Bot1node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot1node026 left the game
+[19:33:38] [Server thread/INFO]: Bot2node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot2node026 left the game
+[19:33:38] [Server thread/INFO]: Bot3node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot3node026 left the game
+[19:33:38] [Server thread/INFO]: Bot4node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot4node026 left the game
+[19:33:38] [Server thread/INFO]: Bot5node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot5node026 left the game
+[19:33:38] [Server thread/INFO]: Bot5node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot5node019 left the game
+[19:33:38] [Server thread/INFO]: Bot6node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot6node019 left the game
+[19:33:38] [Server thread/INFO]: Bot6node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot6node026 left the game
+[19:33:38] [Server thread/INFO]: Bot7node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot7node026 left the game
+[19:33:38] [Server thread/INFO]: Bot7node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot7node019 left the game
+[19:33:38] [Server thread/INFO]: Bot8node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot8node019 left the game
+[19:33:38] [Server thread/INFO]: Bot8node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot8node026 left the game
+[19:33:38] [Server thread/INFO]: Bot9node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot9node026 left the game
+[19:33:38] [Server thread/INFO]: Bot9node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot9node019 left the game
+[19:33:38] [Server thread/INFO]: Bot10node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot10node019 left the game
+[19:33:38] [Server thread/INFO]: Bot10node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot10node026 left the game
+[19:33:38] [Server thread/INFO]: Bot11node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot11node026 left the game
+[19:33:38] [Server thread/INFO]: Bot11node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot11node019 left the game
+[19:33:38] [Server thread/INFO]: Bot12node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot12node019 left the game
+[19:33:38] [Server thread/INFO]: Bot12node026 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot12node026 left the game
+[19:33:38] [Server thread/INFO]: Bot1node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot1node019 left the game
+[19:33:38] [Server thread/INFO]: Bot2node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot2node019 left the game
+[19:33:38] [Server thread/INFO]: Bot3node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot3node019 left the game
+[19:33:38] [Server thread/INFO]: Bot4node019 lost connection: Disconnected
+[19:33:38] [Server thread/INFO]: Bot4node019 left the game
